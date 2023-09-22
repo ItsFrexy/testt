@@ -1,0 +1,109 @@
+{
+  "Navbar": {
+    "home": "Főoldal",
+    "services": "Szolgáltatások",
+    "about": "Cégbemutató",
+    "contact": "Kapcsolat"
+  },
+  "Hero": {
+    "header": "Megbízhatóan naprakészen.",
+    "desc": "Egy megbízhatóan működő vállalatirányítási rendszer bevezetése, folyamatos üzemeltetése, a piaci, üzleti folyamatok változásainak SAP rendszerekben történő naprakész követése felelősségteljes feladat.",
+    "call-btn": "Ismerjen meg minket"
+  },
+  "Services": {
+    "home-header": "Igény szerinti SAP megoldások.",
+    "home-call-btn": "Tudjon meg többet",
+    "Strategiai": {
+      "title": "Stratégiai tanácsadás",
+      "banner-text": "Biztos kezekben.",
+      "desc-1": "Egy új vállalatirányítási rendszer bevezetése minden esetben stratégiai döntés eredménye egy cég életében. A bevezetésre kerülő rendszer hosszú évekre, évtizedekre az informatikai infrastruktúra, ilyen módon az informatikai stratégia központi elemévé válik, támogatva és egyúttal meghatározva a vállalati folyamatok működését, működtetését, a tulajdonosok, vezetők stratégiai/operatív döntéseit.",
+      "desc-2": "A bevezetésre kerülő rendszer kiválasztása, kialakítása a támogatott üzleti területek, ill. az azokat támogató, kapcsolódó informatikai rendszerek felett átívelő stratégiai szemléletet, döntéseket, speciális piaci ismereteket, szaktudást igényel. Szakértőink az információtechnológiai háttér, valamint az üzleti folyamatok megtervezése, kialakítása, támogatása kapcsán megszerzett sok évtizedes tapasztalata biztos kézzel segíti Önt és vállalatát az ideális megoldás, bevezető partner kiválasztásában, a kiválasztáshoz vezető döntések előkészítésében, meghozatalában, a sikeres bevezetés levezénylésében.",
+      "desc-3": "Legyen szó projektmetodológiai, folyamat-/termékminőségbiztosítási ismeretek átadásáról, biztosításáról vagy szervezeti-/folyamattranszformációk előkészítéséről, támogatásáról, ránk, szakértőink tudására, tapasztalatára mindig számíthat, támaszkodhat.",
+      "short-desc": "Egy vállalatirányítási rendszer bevezetése minden esetben stratégiai döntés eredménye. Szakértőink sok évtizedes tapasztalata segíti Önt az ideális megoldás kiválasztásában, a sikeres bevezetés levezénylésében."
+    },
+    "Implementacio": {
+      "title": "Implementáció és funkcióbővítés",
+      "banner-text": "Biztos lépésekkel.",
+      "desc-1": "A bázisellátó.hu Kft. teljes körű szolgáltatásokat biztosít ügyfelei részére akár egy új SAP rendszer bevezetése, akár egy már működő rendszer funkcionális bővítése során.",
+      "desc-2": "Tanácsadóink segítenek az üzleti igényhez, környezethez illeszkedő megoldás megtalálásában, kiválasztásában, a szükséges on-premise/cloud környezet, infrastruktúra megtervezésében, kialakításában, az egyedi rendszerbeállítások-/fejlesztések kivitelezésében.",
+      "desc-3": "Mindezen tevékenységek végrehajtása jól megtervezett projektkeretek között, általánosan elfogadott projektmódszertanok mentén történik, tapasztalt projektvezetők irányítása, felügyelete alatt. Az üzleti igénytől a kész megoldás használatbavételéig végig kísérjük a megbízót a tervezés, a megvalósítás valamennyi lépésén, elkészítjük az implementált funkciók teljeskörű dokumentációját, felkészítjük a kulcsfelhasználókat azok használatára. Fogjuk a kezüket az elfogadási tesztek végrehajtása, csak úgy, mint a saját megszerzett tudásuk végfelhasználók számára történő átadása során. Megtervezzük, végrehajtjuk a szükséges adatmigrációt, előkészítjük az indulást, támogatjuk a produktív használat első heteit vagy igény szerint - támogatási szolgáltatásaink keretében - akár a későbbi folyamatos működést, működtetést.",
+      "short-desc": "A bázisellátó.hu Kft. teljes körű szolgáltatásokat biztosít egy új SAP rendszer bevezetése vagy egy már működő rendszer funkcionális bővítése során az ideális megoldás megtalálásától egészen a kivitelezésig."
+    },
+    "Technologiai": {
+      "title": "Technológiai tanácsadás",
+      "banner-text": "Biztos alapokon.",
+      "desc-1": "Cégünk eredeti profiljához hűen teljes körű szolgáltatásokat kínálunk az SAP bázistechnológia valamennyi területén.",
+      "desc-2": "Magyarországi és nemzetközi projekteken kipróbált szakembereink otthonosan mozognak mind a korábbi évtizedeket meghatározó SAP R/3, mind a jelenlegi trendet, technológiát képviselő SAP S/4HANA rendszerkörnyezetekben. Felkészült tanácsadóink egyaránt naprakész tudással bírnak SAP on-premise és cloud, azaz az ügyfél saját környezetében vagy épp felhő alapokokon tervezett rendszerimplementáció, -upgrade, -migráció, -integráció megtervezéséhez, végrehajtásához.",
+      "desc-3": "Már működő rendszerek működésének, architektúrájának optimalizálása, teljesítményének finomhangolása mellett üzemeltetési, üzemeltetés támogatási szolgáltatások nyújtása is a szolgáltatási portfóliónk részét képezi. 7x24h modellben felépített üzemeltetési/támogatási környezetünknek, csapatunknak nem jelenthet gondot vállalata SAP rendszereinek a legmagasabb üzemeltetési/biztonsági standardok szerinti működtetése, a működésfolytonosság biztosítása.",
+      "short-desc": "Cégünk eredeti profiljához hűen teljes körű szolgáltatásokat kínálunk az SAP bázistechnológia valamennyi területén, otthonosan mozogva SAP R/3, ill. S/4HANA környezetekben, mind on-premise, mind cloud alapokon."
+    },
+    "Rendszeruzemeltetes": {
+      "title": "Rendszerüzemeltetés",
+      "banner-text": "(Erő)teljes biztonságban.",
+      "desc-1": "A bázisellátó.hu Kft. igény esetén a kor elvárásainak megfelelő modern, SAP HANA adatbázistechnológia alkalmazására optimalizált, biztonságos rendszerkörnyezetben, saját szerverparkján is képes biztosítani ügyfelei SAP rendszereinek üzemeltetését.",
+      "desc-2": "IaaS (Infrastructure as a Service) modellben kialakított 7 x 24h rendelkezésre állású SAP rendszerüzemeltetési szolgáltatásunk költséghatékony alternatívája lehet on-premise SAP ügyfelek saját infrastruktúrán, saját erőforrásokkal történő rendszerüzemeltetésének vagy épp a globális felhőszolgáltatók kínálta privát felhő alapú megoldásoknak, üzemeltetési modelleknek.",
+      "desc-3": "További előnyünk sok más szolgáltatóval szemben professzionális SAP bázistechnológiai, ill. modul ismeretünk, ilyen módon akár egy kézből nyújtva mind az SAP infrastruktúra, mind az SAP bázistechnológia, mind pedig az SAP alkalmazás szintű támogatást ügyfeleink részére.",
+      "short-desc": "A bázisellátó.hu Kft. igény esetén a kor elvárásainak megfelelő modern, biztonságos rendszerkörnyezetben, saját szerverparkján is biztosítja ügyfelei SAP rendszereinek IaaS modellben kialakított üzemeltetését."
+    },
+    "Alkalmazas": {
+      "title": "Alkalmazás Támogatás",
+      "banner-text": "Biztos háttérrel.",
+      "desc-1": "Szolgáltatási portfóliónk részeként munkatársaink tudását, tapasztalatát igyekszünk már működő SAP rendszerekhez kapcsolódó alkalmazástámogatás keretében is kamatoztatni.",
+      "desc-2": "SAP alkalmazástámogatási szolgáltatásunkat felkészült szolgáltatás menedzserek irányítása alatt, jól definiált, transzparens folyamatok, szervezet, minőségi mutatók mentén, azok folyamatos kontrollja mellett biztosítjuk.",
+      "desc-3": "A támogatási modellünk kulcsszereplőin, folyamatain, eszközein túl igyekszünk szemléletmódunkkal is további hozzáadott értéket teremteni megbízóink számára: Az alkalmazástámogatás nálunk nem kizárólag ad- hoc problémakezelést/- megoldást jelent, sokkal inkább ügyfeleinkkel közös stratégiai együtt gondolkodást, szoros operatív együttműködést rendszereik jövőképének tudatos, tervezhető alakításához, azok zavartalan működésének, működtetésének fenntartásához. Ennek az együttműködésnek a részeként dokumentáljuk, megosztjuk tudásunkat partnereinkkel, hisszük, hogy a kooperáció legalább olyan fontos eleme a sikernek, mint szakmai felkészültségünk.",
+      "short-desc": "Munkatársaink tudását igyekszünk már működő SAP rendszerek alkalmazástámogatása keretében is kamatoztatni. Hisszük, hogy a kooperáció legalább olyan fontos eleme a sikernek, mint szakmai felkészültségünk."
+    },
+    "Projektmenedzsment": {
+      "title": "Projektmenedzsment és minőségbiztosítás",
+      "banner-text": "Biztos keretek között.",
+      "desc-1": "„A projekt egy időszakos vállalkozás, melynek célja, hogy egy egyedi végeredményt, terméket vagy szolgáltatást hozzon létre”, ezen definíció alól természetesen az informatikai – így az SAP – projektek sem kivételek.",
+      "desc-2": "Az informatikai projektek megrendelői jellemzően maguk is vállalatok, amelyek elsődleges célja saját egyedi termékek, szolgáltatások előállítása, kialakítása. Felépítésük, erőforrásaik, működésük optimális esetben ezen eredmény megvalósításának leghatékonyabb módját célozza, így nem mindig rendelkeznek a saját céljaik elérését, termékeik, szolgáltatásaik előállítását ugyan támogató, de azokhoz közvetlenül nem kapcsolódó projektek kiszolgálásához szükséges belső kompetenciákkal, kapacitásokkal.",
+      "desc-3": "Ilyen kompetencia lehet maga a projektmenedzsment is, annak részeként a projekt terjedelmének, minőségének, költségeinek, ütemezésének, humán erőforrásainak vagy épp a projekt kockázatainak, kommunikációjának, változásainak, szállítóinak hatékony kezelése, menedzsmentje, az ezekhez kapcsolódó folyamatok, tevékenységek kiszolgálása.",
+      "desc-4": "Segítünk előkészíteni, megtervezni, végrehajtani vállalatának informatikai projektjeit, mindvégig követve, felügyelve azok valamennyi területét, elemét, lépését, egészen azok sikeres lezárásáig. Széleskörű projektmenedzsment tapasztalatainkra alapozva igény szerint támogatjuk Önt projektjeinek folyamat/termék alapú minőségbiztosításában.",
+      "short-desc": "A projekt egy időszakos vállalkozás, melynek célja, hogy egyedi végeredményt hozzon létre. Segítünk megtervezni, végrehajtani vállalatának informatikai projektjeit, azok sikeres lezárásáig."
+    }
+  },
+  "Footer": {
+    "desc": "A Bázisellátó.hu Kft. 2015-es megalakulásától kezdve kínálja SAP termékekhez kapcsolódó szolgáltatásait. Az eltelt több mint 5 évben munkatársaink az SAP projekteken szinte minden iparágban és vállalati méretben szereztek tapasztalatokat, így jelenlegi ügyfeleinket megalapozott szakmai ismeretek és különböző iparági tapasztalatok alapján tudjuk kiszolgálni.",
+    "contact": "Elérhetőség",
+    "company": "Bázisellátó Kft.",
+    "city": "1131 Budapest",
+    "address": "Babér utca 1-V. emelet",
+    "country": "Magyarország",
+    "mail": "info@bazisellato.hu",
+    "phone": "+36 30 263-66-31"
+  },
+  "About": {
+    "banner-text": "Hazai bázison, nemzetközi tapasztalattal.",
+    "about-us-title": "Rólunk",
+    "about-us-desc1": "A bázisellátó.hu Kft. 2015. óta kínálja ügyfelei, partnerei részére SAP bázis-/biztonságtechnológiai szolgáltatásait, termékeit.",
+    "about-us-desc2": "Profilunk az évek során folyamatosan bővült, így ma már az SAP piac többi meghatározó szereplőjéhez hasonlóan az SAP szolgáltatások, termékek széles spektrumán állunk ügyfeleink rendelkezésére.",
+    "about-us-desc3": "Felkészült szakértő csapatunk professzionális projektkereteket, szakmai hátteret biztosít partnereink részére, legyen szó az ideális megoldás kiválasztásáról, egy új SAP rendszer bevezetéséhez kapcsolódó BPR tevékenységről, architektúra tervezésről, egyedi beállítások, fejlesztések teljeskörű implementálásáról vagy épp egy már működő rendszer funkcionális továbbfejlesztéséről, üzemeltetéséről, alkalmazástámogatásáról.",
+    "philosophy-title": "Filozófiánk",
+    "philosophy-desc1": "Egy megbízhatóan működő vállalatirányítási rendszer bevezetése, folyamatos üzemeltetése, a piaci, üzleti folyamatok változásainak SAP rendszerekben történő naprakész követése felelősségteljes feladat.",
+    "philosophy-desc2": "Mint minden projekt, az ezzel járó változások, változtatások is hordoznak magukban kockázatokat. Mi a bázisellátó.hu- nál hiszünk benne, hogy körültekintő tervezéssel, megfelelő szakértelem és szakmai tapasztalat birtokában a felmerülő kockázatok, azok hatásai minimálisra csökkenthetők.",
+    "philosophy-desc3": "A legújabb fejlesztések és technológiák az azokat magabiztosan alkalmazó szakértőink kezében mind egyetlen célt szolgálnak: Ügyfeleink elégedettségét. Előbbieket munkatársaink folyamatos, tudatos képzése biztosítja, míg utóbbira az évek során ügyfeleinkkel kialakított együttműködés, megbízható, naprakész partnerkapcsolat és nem utolsó sorban közös sikereink a bizonyíték."
+  },
+  "Contact": {
+    "banner-text": "Kérdéseivel keressen bátran bennünket",
+    "title": "Kérdése van?",
+    "title-desc": "Forduljon hozzánk bizalommal, mi mindig örömmel segítünk Önnek!",
+    "email-title": "Írjon nekünk",
+    "email-desc": "E-mailben is szívesen állunk rendelkezésére.",
+    "email": "info@bazisellato.hu",
+    "phone-title": "Hívjon minket",
+    "phone-desc": "Szívesen válaszolunk kérdéseire telefonon keresztül is.",
+    "phone": "+36 30 263-66-31",
+    "address-title": "Találkozzon velünk",
+    "address-desc": "1131 Budapest \n Babér utca 1-5., V. emelet",
+    "address-country": "Magyarország"
+  },
+  "Page404": {
+    "title": "404",
+    "desc": "Sajnos a keresett oldal nem létezik. De ne aggódj, rengeteg más dolgot is találsz a ",
+    "href": "honlapunkon"
+  },
+  "Slider": {
+    "title": "További SAP megoldások."
+  }
+}

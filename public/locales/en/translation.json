@@ -1,0 +1,109 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "header": "Reliably up-to-date",
+    "desc": "The introduction and continuous operation of a reliably functioning company management system, the up-to-date monitoring of changes in market and business processes in SAP systems is a responsible task.",
+    "call-btn": "Get to know us"
+  },
+  "Services": {
+    "home-header": "On-demand SAP solutions.",
+    "home-call-btn": "Learn more",
+    "Strategiai": {
+      "title": "Strategic consulting",
+      "banner-text": "In safe hands.",
+      "desc-1": "The introduction of a new corporate management system is always the result of a strategic decision in the life of a company. The system to be introduced becomes the central element of the IT infrastructure and thus the IT strategy for many years, decades, supporting and at the same time determining the operation and operation of company processes and the strategic/operational decisions of owners and managers.",
+      "desc-2": "The selection and design of the system to be introduced is based on the supported business areas, or it requires a strategic approach, decisions, special market knowledge and expertise that goes beyond the related IT systems that support them. Our experts' many decades of experience in the information technology background and the planning, development and support of business processes will help you and your company with a sure hand in choosing the ideal solution and introduction partner, in preparing and making the decisions leading to the selection, and in managing the successful introduction.",
+      "desc-3": "Whether it is the transfer and provision of project methodology, process/product quality assurance knowledge, or the preparation and support of organizational/process transformations, you can always count on and rely on the knowledge and experience of our experts.",
+      "short-desc": "Introducing a company management system is always the result of a strategic decision. The decades of experience of our experts will help you choose the ideal solution and manage the successful implementation."
+    },
+    "Implementacio": {
+      "title": "Implementation and function extension",
+      "banner-text": "With sure steps.",
+      "desc-1": "Bázisellató.hu Kft. provides full range of services to its customers either during the introduction of a new SAP system or during the functional expansion of an already functioning system.",
+      "desc-2": "Our consultants help you find and select a solution that fits your business needs and environment, plan and design the necessary on-premise/cloud environment and infrastructure, and implement individual system settings/improvements.",
+      "desc-3": "All these activities are carried out within well-planned project frameworks, along generally accepted project methodologies, under the guidance and supervision of experienced project managers. From the business need to the use of the finished solution, we accompany the client through all the steps of planning and implementation, prepare full documentation of the implemented functions, and prepare the key users for their use. We hold their hands in the execution of acceptance tests, as well as in the transfer of their own acquired knowledge to end users. We plan and carry out the necessary data migration, prepare the launch, support the first weeks of productive use or, as required - within the framework of our support services - even the subsequent continuous operation.",
+      "short-desc": "Bázisellató.hu Kft. provides a full range of services during the implementation of a new SAP system or the functional expansion of an already functioning system, from finding the ideal solution to implementation."
+    },
+    "Technologiai": {
+      "title": "Technology consulting",
+      "banner-text": "On a sure footing.",
+      "desc-1": "True to the original profile of our company, we offer comprehensive services in all areas of SAP base technology.",
+      "desc-2": "Our experts, tested on Hungarian and international projects, feel at home in both SAP R/3, which defined previous decades, and SAP S/4HANA, which represents the current trend and technology. Our trained consultants have up-to-date knowledge of SAP on-premise and cloud, i.e. for the planning and execution of system implementation, upgrade, migration, and integration planned in the customer's own environment or on cloud bases.",
+      "desc-3": "In addition to optimizing the operation and architecture of existing systems and fine-tuning their performance, the provision of operation and operation support services is also part of our service portfolio. Operating your company's SAP systems according to the highest operational/security standards and ensuring operational continuity can be no problem for our operating/support environment built in a 7x24h model, and for our team.",
+      "short-desc": "True to the original profile of our company, we offer a full range of services in all areas of SAP base technology, moving at home in SAP R/3 and S/4HANA environments, both on-premise and cloud."
+    },
+    "Rendszeruzemeltetes": {
+      "title": "System Operation",
+      "banner-text": "System Operation",
+      "desc-1": "If required, bázisellató.hu Kft. can ensure the operation of its customers' SAP systems in its own server park in a secure system environment optimized for the use of modern, modern SAP HANA database technology.",
+      "desc-2": "Our 7 x 24h availability SAP system operation service designed in the IaaS (Infrastructure as a Service) model can be a cost-effective alternative to on-premise SAP customers' system operation on their own infrastructure, with their own resources, or to private cloud-based solutions and operation models offered by global cloud providers.",
+      "desc-3": "Another advantage we have over many other service providers is professional SAP base technology, or module knowledge, thus providing our customers with SAP infrastructure, SAP base technology, and SAP application level support from a single source.",
+      "short-desc": "If required, bázisellató.hu Kft. provides the operation of its customers' SAP systems in the IaaS model in a modern, secure system environment that meets the expectations of the times, on its own server park."
+    },
+    "Alkalmazas": {
+      "title": "Application Support",
+      "banner-text": "With secure background.",
+      "desc-1": "As part of our service portfolio, we try to make use of the knowledge and experience of our employees in the context of application support related to already functioning SAP systems.",
+      "desc-2": "We provide our SAP application support service under the guidance of trained service managers, along well-defined, transparent processes, organization, and quality indicators, with their continuous control.",
+      "desc-3": "In addition to the key actors, processes, and tools of our support model, we also try to create additional added value for our clients with our approach: For us, application support does not only mean ad-hoc problem management/solutions, but rather joint strategic thinking with our customers, close operational cooperation for the conscious, planable shaping of the future vision of their systems, to maintain their smooth operation and operation. As part of this cooperation, we document and share our knowledge with our partners, we believe that cooperation is at least as important an element of success as our professional preparation.",
+      "short-desc": "We try to make use of the knowledge of our employees in the context of application support for already functioning SAP systems. We believe that cooperation is at least as important an element of success as our professional preparation."
+    },
+    "Projektmenedzsment": {
+      "title": "Project management and quality assurance",
+      "banner-text": "Within safe limits.",
+      "desc-1": "„A project is a periodic undertaking, the purpose of which is to create a unique final result, product or servic”, from this definition, of course, IT projects - such as SAP - are no exception.",
+      "desc-2": "The customers of IT projects are typically companies themselves, whose primary goal is to produce and develop their own unique products and services. In the optimal case, their structure, resources, and operation aim at the most effective way of achieving this result, so they do not always have the internal competences and capacities necessary to serve projects that support the achievement of their own goals and the production of their products and services, but are not directly related to them.",
+      "desc-3": "Project management itself can be such a competence, as a part of it the effective management and management of the scope, quality, costs, schedule, human resources of the project, or the project's risks, communication, changes, and suppliers, as well as servicing the related processes and activities.",
+      "desc-4": "We help you prepare, plan, and implement your company's IT projects, following and supervising all their areas, elements, and steps, right up to their successful conclusion. Based on our extensive project management experience, we support you as needed in the process/product-based quality assurance of your projects.",
+      "short-desc": "The project is a temporary undertaking, the purpose of which is to create a unique end result. We help you plan and implement your company's IT projects until they are successfully concluded."
+    }
+  },
+  "Footer": {
+    "desc": "Since its establishment in 2015, Bázisellátó.hu Kft. has been offering services related to SAP products. In the more than 5 years that have passed, our employees have gained experience on SAP projects in almost every industry and company size, so we can serve our current customers based on well-founded professional knowledge and various industry experiences.",
+    "contact": "Contact",
+    "company": "Bázisellátó Kft.",
+    "city": "1131 Budapest",
+    "address": "Babér street 1-V. floor",
+    "country": "Hungary",
+    "mail": "info@bazisellato.hu",
+    "phone": "+36 30 263-66-31"
+  },
+  "About": {
+    "banner-text": "Domestically, with international experience.",
+    "about-us-title": "About Us",
+    "about-us-desc1": "Since 2015, bázisellató.hu Kft. has been offering SAP base/security technology services and products to its customers and partners.",
+    "about-us-desc2": "Our profile has continuously expanded over the years, so today, like other key players in the SAP market, we offer a wide range of SAP services and products to our customers.",
+    "about-us-desc3": "Our team of trained experts provides professional project frameworks and professional background for our partners, whether it is about choosing the ideal solution, BPR activities related to the introduction of a new SAP system, architecture planning, the full implementation of unique settings and improvements, or the functional further development, operation, and application support of an already functioning system.",
+    "philosophy-title": "Our philosophy",
+    "philosophy-desc1": "The introduction and continuous operation of a reliably functioning company management system, the up-to-date monitoring of changes in market and business processes in SAP systems is a responsible task.",
+    "philosophy-desc2": "As with all projects, the accompanying changes also carry risks. At bázisellátó.hu, we believe that with careful planning, appropriate expertise and professional experience, the risks and their effects can be minimized.",
+    "philosophy-desc3": "The latest developments and technologies, in the hands of our experts who apply them confidently, serve only one purpose: the satisfaction of our customers. The former is ensured by the continuous, conscious training of our employees, while the latter is evidenced by the cooperation with our customers over the years, a reliable, up-to-date partnership and, last but not least, our joint successes."
+  },
+  "Contact": {
+    "banner-text": "Feel free to contact us with your questions",
+    "title": "Any question in mind?",
+    "title-desc": "Contact us with confidence, we are always happy to help you!",
+    "email-title": "Email Us",
+    "email-desc": "We are also happy to help you by email.",
+    "email": "info@bazisellato.hu",
+    "phone-title": "Call Us",
+    "phone-desc": "We are happy to answer your questions by phone.",
+    "phone": "+36 30 263-66-31",
+    "address-title": "Meet Us",
+    "address-desc": "1131 Budapest \n Babér street 1-5., V. floor",
+    "address-country": "Hungary"
+  },
+  "Page404": {
+    "title": "404",
+    "desc": "Sorry, we couldn't find this page. But don't worry, you can find plenty of other things on our ",
+    "href": "Homepage"
+  },
+  "Slider": {
+    "title": "More SAP solutions."
+  }
+}
